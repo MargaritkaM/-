@@ -15,5 +15,6 @@
 ### Резюме:
 - [Ссылка на Google docs](https://docs.google.com/document/d/13tVIUCMLtGMcFaHN_0ce19Q-fkLb_GRshTqRp7ZM3FE/edit?usp=sharing)
 
-
+### Благодарность:
+- [ВТБ](https://github.com/MargaritkaM/thanks.git)
 
