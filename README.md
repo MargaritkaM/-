@@ -10,7 +10,7 @@
 
 ### Документы:
 
-- [Свидетельство о прохождении курса Нетологии](https://github.com/MargaritkaM/certificate)
+- [Свидетельство о прохождении курса Нетологии](https://user-images.githubusercontent.com/106307755/225658120-da712d5c-77f3-452a-8f8e-f0e3d01a49e7.png)
 
 ### Резюме:
 - [Ссылка на Google docs](https://docs.google.com/document/d/13tVIUCMLtGMcFaHN_0ce19Q-fkLb_GRshTqRp7ZM3FE/edit?usp=sharing)
